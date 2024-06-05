@@ -14,25 +14,25 @@ body {
     flex-wrap: wrap;
     width: 90%;
     max-width: 1200px;
-    justify-content: center; /* Alinha os itens centralizados horizontalmente */
-    align-items: flex-start; /* Alinha os itens no topo verticalmente */
-    gap: 20px; /* Adiciona espaço entre os itens */
+    justify-content: center; 
+    align-items: flex-start; 
+    gap: 20px; 
 }
 
 .login-container {
-    background: #fff; /* Corrige a cor de fundo para branco */
+    background: #fff;
     padding: 40px;
     border-radius: 8px;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
-    flex: 1 1 300px; /* Flexível para crescer, mas com largura mínima de 300px */
-    max-width: 500px; /* Define uma largura máxima */
-    box-sizing: border-box; /* Inclui padding e border na largura total */
+    flex: 1 1 300px; 
+    max-width: 500px; 
+    box-sizing: border-box;
 }
 
 h1 {
     margin-bottom: 20px;
     color: #007bff;
-    text-align: center; /* Centraliza o título */
+    text-align: center; 
 }
 
 .form-group {
@@ -63,7 +63,7 @@ button {
     width: 100%;
     font-size: 16px;
     transition: background-color 0.3s;
-    margin-top: 10px; /* Adiciona espaço acima do botão */
+    margin-top: 10px;
 }
 
 button:hover {
@@ -72,8 +72,8 @@ button:hover {
 
 .carousel {
     position: relative;
-    flex: 1 1 300px; /* Flexível para crescer, mas com largura mínima de 300px */
-    max-width: 500px; /* Define uma largura máxima */
+    flex: 1 1 300px; 
+    max-width: 500px; 
     overflow: hidden;
     border-radius: 8px;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
