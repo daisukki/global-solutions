@@ -24,4 +24,4 @@
 
 ## Prévia do Website. 
 
-![Preview](https://s177.convertio.me/p/vGumuk25vV25DQgAhWuBpw/4faf6d1c9a5df611324ebc483ebce7d3/Desktop-2024.06.05-18.05.16.18.gif)
+![Preview](./assets/img/video.gif)
