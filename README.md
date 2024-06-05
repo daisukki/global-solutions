@@ -24,4 +24,4 @@
 
 ## Prévia do Website. 
 
-![Preview](./assets/img/video.gif)
+<img src="/assets/img/video.gif">
