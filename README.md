@@ -11,6 +11,7 @@
 - **Sistema de Login**: Para acessar o site, utilize as credenciais abaixo:
   - **Login**: `oceans20`
   - **Senha**: `oceans20`
+    
   - **Alert após Login**: Após efetuar o login, o site mostra um alert e volta ao site principal (`index.html`).
 
 ## Tecnologias Utilizadas
