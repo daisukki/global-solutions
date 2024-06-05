@@ -2,7 +2,8 @@
 
 **Autor**: Matheus Henriques do Amaral - RM 556957.
 
-<img src="/assets/img/video.gif">
+
+ <img src="/assets/img/video.gif">
 
 ## Funcionalidades
 
