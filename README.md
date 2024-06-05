@@ -1,7 +1,5 @@
 ﻿# Front End & Web Dev Global Solution. 
-
-## **Autor**: 
-**<li>Matheus Henriques do Amaral - RM 556957</li>**
+## **<li>Matheus Henriques do Amaral - RM 556957</li>**
 
 
  <img src="/assets/img/video.gif">
