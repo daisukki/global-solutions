@@ -2,6 +2,10 @@
 
 **Autor**: Matheus Henriques do Amaral - RM 556957.
 
+## Prévia do Website. 
+
+<img src="/assets/img/video.gif">
+
 ## Funcionalidades
 
 - **Responsividade**: O site é totalmente responsivo, proporcionando uma experiência otimizada em dispositivos móveis e desktops.
@@ -22,6 +26,4 @@
 - **Desenvolvimento Econômico**: Suporte a comunidades costeiras e empresas de turismo com informações precisas e atualizadas.
 - **Sustentabilidade Ambiental**: Proteção dos ecossistemas marinhos e promoção da sustentabilidade para futuras gerações.
 
-## Prévia do Website. 
 
-<img src="/assets/img/video.gif">
