@@ -4,6 +4,8 @@
 
  <img src="/assets/img/video.gif">
 
+ https://daisukki.github.io/global-solutions/
+
 ## Funcionalidades
 
 - **Responsividade**: O site é totalmente responsivo, proporcionando uma experiência otimizada em dispositivos móveis e desktops.
